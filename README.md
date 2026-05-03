@@ -1,7 +1,9 @@
 <h1 align="center">Olá, eu sou Ruan Tirabassi! 👋</h1>
 
 <div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=44C7F7&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
