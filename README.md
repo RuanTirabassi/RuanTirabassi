@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Ruan Tirabassi! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=44C7F7&center=true&vCenter=true&repeat=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Web;Focado+em+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=44C7F7&center=true&vCenter=true&repeat=true&width=435&lines==Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+FullStack;Focado+em+Tecnologia" alt="Typing SVG" />
 </div>
 
 <div align="center">
