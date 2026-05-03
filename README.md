@@ -5,20 +5,23 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ruan-tirabassi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ruan09tirabassi@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://lattes.cnpq.br/" target="_blank"><img src="https://img.shields.io/badge/-Lattes-4477BB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes"></a>
+  <a href="https://www.linkedin.com/in/ruan-tirabassi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ruan09tirabassi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
 </div>
 
 ---
 
 ### 🚀 Sobre mim
 
-Estudante de **Ciência da Computação** na **UENP**, com interesse em desenvolvimento de software, análise de sistemas e resolução de problemas. Tenho experiência com projetos acadêmicos e práticos envolvendo desenvolvimento web, prototipação, modelagem de dados e participação em eventos de tecnologia e inovação.
+Sou estudante de **Ciência da Computação** na **UENP**, com interesse em desenvolvimento de software, análise de sistemas e resolução de problemas. Ao longo da graduação, participei de projetos acadêmicos e práticos envolvendo desenvolvimento web, prototipação, modelagem de dados e criação de interfaces.
 
-Já participei de projetos publicados e apresentados em eventos acadêmicos, o que me ajudou a desenvolver tanto a parte técnica quanto habilidades como trabalho em equipe, comunicação e adaptabilidade.
+Também tive experiência com publicação científica e apresentação de trabalho em evento acadêmico, o que me ajudou a desenvolver habilidades técnicas e comportamentais, como trabalho em equipe, comunicação, organização e adaptabilidade.
 
-Gosto de aprender na prática, construir soluções úteis e evoluir constantemente como profissional. Meu foco é continuar desenvolvendo minhas competências em tecnologia, contribuindo com projetos bem estruturados e com impacto real.
+Gosto de aprender na prática, construir soluções úteis e evoluir constantemente como profissional. Tenho interesse em ambientes colaborativos, onde eu possa contribuir com responsabilidade e continuar crescendo na área de tecnologia.
 
 📍 Bandeirantes, Paraná, Brasil
 
@@ -42,19 +45,19 @@ Gosto de aprender na prática, construir soluções úteis e evoluir constanteme
 
 ### 📌 Destaques
 
-- **Sistema de gestão para equoterapia**: desenvolvimento de software web com foco em usabilidade, prontuários eletrônicos e Design Centrado no Usuário.
-- **Publicação científica**: coautor de artigo publicado nos anais da SBC sobre o sistema de gestão para equoterapia.
-- **UENP Race**: desenvolvimento de carrinho controlado remotamente com Raspberry Pi 3, aplicado à disciplina de Redes de Computadores.
-- **GeniusCon 2025**: participação em hackathon e atividades de inovação, tecnologia e empreendedorismo.
+- Sistema de gestão para equoterapia com foco em usabilidade e prontuários eletrônicos.
+- Coautoria de artigo científico publicado nos anais da SBC.
+- Desenvolvimento de carrinho controlado remotamente com Raspberry Pi 3.
+- Participação em hackathon e eventos de inovação, tecnologia e empreendedorismo.
 
 ---
 
 ### 📂 Projetos em destaque
 
-- [**Sistema de Gestão para Equoterapia**](https://github.com/seuusuario): prontuário eletrônico especializado para gestão de dados da equoterapia.
-- [**UENP Race**](https://github.com/seuusuario): carrinho controlado remotamente com Raspberry Pi 3.
-- [**Conta Libras**](https://github.com/seuusuario): glossário em Libras com foco acadêmico e funcional.
-- [**Projetos acadêmicos e experimentos**](https://github.com/seuusuario?tab=repositories): outros repositórios e estudos.
+- [**Sistema de Gestão para Equoterapia**](https://github.com/seuusuario)
+- [**UENP Race**](https://github.com/seuusuario)
+- [**Conta Libras**](https://github.com/seuusuario)
+- [**Outros projetos**](https://github.com/seuusuario?tab=repositories)
 
 ---
 
@@ -70,6 +73,10 @@ Gosto de aprender na prática, construir soluções úteis e evoluir constanteme
 ### 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ruan-tirabassi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ruan09tirabassi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ruan-tirabassi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ruan09tirabassi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
