@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Ruan Tirabassi! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=44C7F7&center=true&vCenter=true&repeat=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Web;Focado+em+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=44C7F7&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,16 +12,27 @@
 
 ---
 
-### 🛠️ Tecnologias Principais
+### 🤖 Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img alt="HTML" title="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="CSS" title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" title="TypeScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Bootstrap" title="Bootstrap" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Vite" title="Vite" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="PHP" title="PHP" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Laravel" title="Laravel" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="MySQL" title="MySQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Insomnia" title="Insomnia" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Git" title="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Python" title="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RuanTirabassi/RuanTirabassi/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </div>
 
 ---
@@ -45,11 +56,3 @@ Tenho experiência com **publicação científica** e apresentação de trabalho
 | **Em andamento** | 🐴 Full Stack Dev   | Sistema de Gestão para Equoterapia               |
 | **2023 - 2023**  | 🚗 Hardware/IoT     | Carrinho Controlado Remotamente (Raspberry Pi 3) |
 | **2022 - Atual** | 📚 B.Sc. Comp. Sci. | UENP - Universidade Estadual do Norte do Paraná  |
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RuanTirabassi/RuanTirabassi/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
-</div>
-
----
